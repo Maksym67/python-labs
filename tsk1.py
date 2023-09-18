@@ -1,0 +1,13 @@
+a = int(1)
+b = float(2)
+c = bool(True)
+d = str('Hello')
+
+print(a)
+print(type(a))
+print(b)
+print(type(b))
+print(c)
+print(type(c))
+print(d)
+print(type(d))

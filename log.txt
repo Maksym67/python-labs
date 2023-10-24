@@ -1,0 +1,48 @@
+Timestamp: 2023-10-24 23:33:36.345652 - Function: multiply, Args: (3, 4), Result: 12, Log Type: multiply
+Timestamp: 2023-10-24 23:33:36.346649 - Function: multiply, Args: (5, 6), Result: 30, Log Type: multiply
+Timestamp: 2023-10-24 23:38:30.195953 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+Timestamp: 2023-10-24 23:38:30.195953 - Function: multiply, Args: (5, 6), Result: 30, Log Type: calculation
+Timestamp: 2023-10-24 23:38:40.686180 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+Timestamp: 2023-10-24 23:38:40.686180 - Function: multiply, Args: (5, 6), Result: 30, Log Type: calculation
+Timestamp: 2023-10-24 23:46:29.716644 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+Timestamp: 2023-10-24 23:46:29.717991 - Function: multiply, Args: (5, 6), Result: 30, Log Type: calculation
+Timestamp: 2023-10-24 23:46:39.493918 - Function: subtract, Args: (10, 5), Result: 5, Log Type: calculation
+Timestamp: 2023-10-24 23:46:39.493918 - Function: add, Args: (3, 7), Result: 10, Log Type: calculation
+Timestamp: 2023-10-24 23:46:39.493918 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+Timestamp: 2023-10-24 23:46:39.494915 - Function: multiply, Args: (5, 6), Result: 30, Log Type: calculation
+Timestamp: 2023-10-24 23:49:58.422762 - Function: msg_to_console, Args: ('// LOG STARTED',), Result: None, Log Type: console_message
+Timestamp: 2023-10-24 23:49:58.422762 - Function: subtract, Args: (10, 5), Result: 5, Log Type: calculation
+Timestamp: 2023-10-24 23:49:58.422762 - Function: add, Args: (3, 7), Result: 10, Log Type: calculation
+Timestamp: 2023-10-24 23:49:58.423758 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+Timestamp: 2023-10-24 23:49:58.423758 - Function: multiply, Args: (5, 6), Result: 30, Log Type: calculation
+Timestamp: 2023-10-24 23:50:43.470676 - Function: msg_to_console, Args: ('|| LOG STARTED ||',), Result: None, Log Type: console_message
+Timestamp: 2023-10-24 23:50:43.470676 - Function: subtract, Args: (10, 5), Result: 5, Log Type: calculation
+Timestamp: 2023-10-24 23:50:43.470676 - Function: add, Args: (3, 7), Result: 10, Log Type: calculation
+Timestamp: 2023-10-24 23:50:43.471677 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+Timestamp: 2023-10-24 23:50:43.471677 - Function: msg_to_console, Args: ('|| LOG CLOSED ||',), Result: None, Log Type: console_message
+Timestamp: 2023-10-24 23:51:45.755736 - Function: msg_to_console, Args: ('|| LOG STARTED ||',), Result: None, Log Type: console_message
+Timestamp: 2023-10-24 23:51:45.755736 - Function: subtract, Args: (10, 5), Result: 5, Log Type: calculation
+Timestamp: 2023-10-24 23:51:45.755736 - Function: add, Args: (3, 7), Result: 10, Log Type: calculation
+Timestamp: 2023-10-24 23:51:45.756735 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+Timestamp: 2023-10-24 23:51:45.757731 - Function: msg_to_console, Args: ('|| LOG CLOSED ||',), Result: None, Log Type: console_message
+Timestamp: 2023-10-24 23:54:26.847995 - Function: msg_to_console, Args: ('|| LOG STARTED ||',), Result: None, Log Type: console_message
+Timestamp: 2023-10-24 23:54:26.847995 - Function: subtract, Args: (10, 5), Result: 5, Log Type: calculation
+Timestamp: 2023-10-24 23:54:26.848993 - Function: add, Args: (3, 7), Result: 10, Log Type: calculation
+Timestamp: 2023-10-24 23:54:26.848993 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+Timestamp: 2023-10-24 23:58:57.254767 - Function: msg_to_console, Args: ('|| LOG STARTED ||',), Result: None, Log Type: console_message
+Timestamp: 2023-10-24 23:58:57.254767 - Function: subtract, Args: (10, 5), Result: 5, Log Type: calculation
+Timestamp: 2023-10-24 23:58:57.254767 - Function: add, Args: (3, 7), Result: 10, Log Type: calculation
+Timestamp: 2023-10-24 23:58:57.255767 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+2023-10-24 23:58:57.255767 - Function: divide, Args: (5, 0), Result: calculation error, Log Type: calculation
+Timestamp: 2023-10-24 23:59:33.339000 - Function: msg_to_console, Args: ('|| LOG STARTED ||',), Result: None, Log Type: console_message
+Timestamp: 2023-10-24 23:59:33.339000 - Function: subtract, Args: (10, 5), Result: 5, Log Type: calculation
+Timestamp: 2023-10-24 23:59:33.339000 - Function: add, Args: (3, 7), Result: 10, Log Type: calculation
+Timestamp: 2023-10-24 23:59:33.340000 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+2023-10-24 23:59:33.340000 - Function: divide, Args: (5, 0), Result: calculation error, Log Type: calculation
+Timestamp: 2023-10-24 23:59:33.340996 - Function: msg_to_console, Args: ('|| LOG CLOSED ||',), Result: None, Log Type: console_message
+Timestamp: 2023-10-24 23:59:54.293346 - Function: msg_to_console, Args: ('|| LOG STARTED ||',), Result: None, Log Type: console_message
+Timestamp: 2023-10-24 23:59:54.293346 - Function: subtract, Args: (10, 5), Result: 5, Log Type: calculation
+Timestamp: 2023-10-24 23:59:54.294316 - Function: add, Args: (3, 7), Result: 10, Log Type: calculation
+Timestamp: 2023-10-24 23:59:54.294316 - Function: multiply, Args: (3, 4), Result: 12, Log Type: calculation
+Timestamp: 2023-10-24 23:59:54.294316 - Function: divide, Args: (10, 2), Result: 5.0, Log Type: calculation
+Timestamp: 2023-10-24 23:59:54.296311 - Function: msg_to_console, Args: ('|| LOG CLOSED ||',), Result: None, Log Type: console_message
